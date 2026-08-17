@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="80" fill="#05060F"/>
+  <rect x="24" y="24" width="464" height="464" rx="64" fill="none" stroke="#663AF3" stroke-width="2" opacity="0.35"/>
+  <text x="256" y="305" font-family="ui-sans-serif,system-ui,sans-serif" font-size="195" font-weight="700"
+        text-anchor="middle" fill="#663AF3" letter-spacing="-3">HJ</text>
+  <rect x="176" y="380" width="160" height="2" rx="1" fill="#d8ecf8" opacity="0.55"/>
+</svg>

@@ -1,0 +1,10 @@
+{
+  "name": "Haikal Jack — Portfolio",
+  "short_name": "Haikal Jack",
+  "description": "Software Engineer — modern web apps & intelligent business automation.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#05060F",
+  "theme_color": "#05060F",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
